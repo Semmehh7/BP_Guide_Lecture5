@@ -100,5 +100,6 @@ Content/__ExternalObjects__/*
 Content/__ExternalActors__/*
 Content/Geometry/*
 Content/Mannequin/*
-Content/ThridPersonBP
+Content/ThridPersonBP/*
 Content/Engine/*
+Config/*
