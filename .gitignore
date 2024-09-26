@@ -98,3 +98,6 @@ Content/LevelPrototyping/*
 Content/Developers/*
 Content/__ExternalObjects__/*
 Content/__ExternalActors__/*
+Content/Geometry/*
+Content/Mannequin/*
+Content/ThridPersonBP
